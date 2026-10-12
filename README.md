@@ -96,7 +96,7 @@ LLMs often wrap JSON in prose or code fences. The pipeline takes the span betwee
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/ReceiptLens.git
+git clone https://github.com/MuhammadRehanRasool/ReceiptLens.git
 cd ReceiptLens
 
 pip install git+https://github.com/huggingface/transformers.git
